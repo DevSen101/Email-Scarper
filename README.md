@@ -42,7 +42,7 @@ cd email-scarper
 3. Run the script:
 
 ```bash
-python scarper.py
+python email-scarper.py
 ```
 
 4. Enter the target URL when prompted:
