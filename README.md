@@ -1,4 +1,4 @@
-# **Email Scarper using Python**
+# **Email Scraper**
 A simple Python script that crawls a website and extracts email addresses using BeautifulSoup and Requests.
 
 ````md
@@ -30,19 +30,19 @@ Make sure Python is installed, then install required libraries:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DevSen101/Email-Scarper.git
+git clone https://github.com/DevSen101/Email-Scraper.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd email-scarper
+cd email-scraper
 ```
 
 3. Run the script:
 
 ```bash
-python email-scarper.py
+python email-scraper.py
 ```
 
 4. Enter the target URL when prompted:
